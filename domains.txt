@@ -1,0 +1,13 @@
+ ~  amass -active -brute -ip -v -whois -d thecrashcourse.com
+[DNSDB]       dc-3575c6dac35f.thecrashcourse.com,52.35.108.231
+[Riddler]     www.thecrashcourse.com,104.27.165.246
+[Brute Force] dev.thecrashcourse.com,104.27.165.246
+
+Amass v1.5.2                                            Jeff Foley (@jeff_foley)
+--------------------------------------------------------------------------------
+3 names discovered - scrape: 2, brute: 1
+--------------------------------------------------------------------------------
+ASN: 16509 - AMAZON-02 - Amazon.com, Inc., US
+	52.32.0.0/14      	1    Subdomain Name(s)
+ASN: 13335 - CLOUDFLARENET - Cloudflare, Inc., US
+	104.27.160.0/20   	2    Subdomain Name(s)
